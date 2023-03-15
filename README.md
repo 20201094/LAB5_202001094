@@ -2,6 +2,18 @@
 Lab 5 
 
 
+
+Docs file link is https://docs.google.com/document/d/1KrA7qC8lyUo0RzAcAWxdy52LkOToH7X_eBR-6_Hv6B4/edit# , 
+
+
+
+
+
+
+
+
+
+
 error given by pylint are 
 aingame.py:169:0: C0303: Trailing whitespace (trailing-whitespace)
 maingame.py:9:0: W0622: Redefining built-in 'exit' (redefined-builtin)
