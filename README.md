@@ -15,6 +15,11 @@ Docs file link is https://docs.google.com/document/d/1KrA7qC8lyUo0RzAcAWxdy52LkO
 
 
 error given by pylint are 
+
+
+
+
+
 aingame.py:169:0: C0303: Trailing whitespace (trailing-whitespace)
 maingame.py:9:0: W0622: Redefining built-in 'exit' (redefined-builtin)
 maingame.py:8:0: E0401: Unable to import 'pygame' (import-error)
